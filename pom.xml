@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.agifac.lib</groupId>
 	<artifactId>dbmdl-framework</artifactId>
-	<version>6.0.1-SNAPSHOT</version>
+	<version>7.0.0</version>
 	<name>Component "dbmdl-framework", of scope "com.agifac.lib"</name>
 	<description>This is the component that create the database tables for the app-framework entities</description>
 	<packaging>pom</packaging>
