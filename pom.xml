@@ -3,8 +3,8 @@
 	<groupId>com.agifac.lib</groupId>
 	<artifactId>dbmdl-framework</artifactId>
 	<version>7.0.1-SNAPSHOT</version>
-	<name>Component "dbmdl-framework", of scope "com.agifac.lib"</name>
-	<description>This is the component that create the database tables for the app-framework entities</description>
+	<name>Automatic database incremental management for tAF framework"</name>
+	<description>This component contains the SQL scripts which are managing tAF framework database evolutions</description>
 	<packaging>pom</packaging>
 	<url>https://prod.the-agile-factory.net/site/${project.groupId}/${project.artifactId}-${project.version}</url>
 	<organization>
