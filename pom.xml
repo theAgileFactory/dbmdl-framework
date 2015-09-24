@@ -2,9 +2,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.agifac.lib</groupId>
 	<artifactId>dbmdl-framework</artifactId>
-	<version>7.0.1-SNAPSHOT</version>
+	<version>8.0.1-SNAPSHOT</version>
 	<name>Automatic database incremental management for tAF framework"</name>
 	<description>This component contains the SQL scripts which are managing tAF framework database evolutions</description>
+
 	<packaging>pom</packaging>
 	<url>https://prod.the-agile-factory.net/site/${project.groupId}/${project.artifactId}-${project.version}</url>
 	<organization>
