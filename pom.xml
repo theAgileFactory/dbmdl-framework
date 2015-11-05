@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.agifac.lib</groupId>
 	<artifactId>dbmdl-framework</artifactId>
-	<version>8.0.1-SNAPSHOT</version>
+	<version>9.0.0</version>
 	<name>Automatic database incremental management for tAF framework"</name>
 	<description>This component contains the SQL scripts which are managing tAF framework database evolutions</description>
 
@@ -17,7 +17,8 @@
                 <connection>scm:git:https://github.com/theAgileFactory/dbmdl-framework.git</connection>
                 <developerConnection>scm:git:https://github.com/theAgileFactory/dbmdl-framework.git</developerConnection>
                 <url>scm:git:https://github.com/theAgileFactory/dbmdl-framework.git</url>
-        </scm>
+          <tag>dbmdl-framework-9.0.0</tag>
+  </scm>
 	
 	<ciManagement>
 		<system>jenkins</system>
