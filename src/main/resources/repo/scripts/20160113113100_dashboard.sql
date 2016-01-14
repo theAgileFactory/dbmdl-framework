@@ -13,7 +13,7 @@ CREATE  TABLE IF NOT EXISTS `dashboard_page` (
   `layout` MEDIUMBLOB,
   `principal_id` BIGINT(20) NOT NULL,
   PRIMARY KEY (`id`),
-  INDEX `fk_dashboard_page_principal_idx` (`dashboard_page_id` ASC) ,
+  INDEX `fk_dashboard_page_principal_idx` (`principal_id` ASC) ,
   CONSTRAINT `fk_dashboard_page_principal`
     FOREIGN KEY (`principal_id` )
     REFERENCES `principal` (`id` )
