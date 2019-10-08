@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sword-group.bizdock.dbmdl</groupId>
 	<artifactId>dbmdl-framework</artifactId>
-	<version>12.2.1</version>
+	<version>17.2.2</version>
 	<name>BizDock application framework database schema</name>
 	<description>This is the database schema builder for the BizDock application framework</description>
 	<packaging>pom</packaging>
